@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Something very interesting to see here, really
 Use the left arrow to go back!
 
 I have created a branch
